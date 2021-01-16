@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import React, { Component } from 'react';
 import Particles from 'react-particles-js';
 import FaceRecognition from './components/FaceRecognition/FaceRecognition';
